@@ -1,2 +1,2 @@
 #Factorial Program Using Kotlin
-Program made during 30 days of kotlin period.
+Program made during 30 days of kotlin Course.
